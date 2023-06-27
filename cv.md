@@ -1,4 +1,4 @@
-![Bilel Oufkir](images/pdp.jpg "Logo Title Text 1")
+![Bilel Oufkir](images/pdp.jpg "Logo Title Text 1"){width = 100 ; height = 100}
 
 # Bilel Oufkir
 ## Developpeur web
