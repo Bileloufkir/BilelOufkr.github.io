@@ -1,4 +1,4 @@
-![Bilel Oufkir](images/pdp.jpg "Logo Title Text 1")
+
 <img src="images/pdp.jpg" alt="bilel" width="200"/>
 
 # Bilel Oufkir
